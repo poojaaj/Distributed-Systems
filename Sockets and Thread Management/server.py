@@ -1,8 +1,3 @@
-#name : Pooja Ashok Jeergyal
-#Id : 100686373
-
-
-
 import socket
 import time
 import thread
