@@ -1,7 +1,3 @@
-# Pooja Ashok Jeergyal
-# 1001686373
-
-
 import socket
 from Tkinter import *
 import time
