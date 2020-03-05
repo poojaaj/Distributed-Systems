@@ -1,6 +1,3 @@
-# name : Pooja Ashok Jeergyal
-# Id : 100686373
-
 # importing libraries
 import socket
 from Tkinter import *
